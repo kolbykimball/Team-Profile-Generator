@@ -4,7 +4,7 @@
 The goal for this project was to create an app that takes input about employees and creates an HTML page showing the date input. The input is takin in via node command line.
 
 ## Table of Contents
-  1. [Installation](##Installation)
+  1. [Installation](#Installation)
   2. Usage
   3. Credits
   4. Screenshot
